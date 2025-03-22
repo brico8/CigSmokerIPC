@@ -13,7 +13,7 @@ package ipc_problem;
 		 this.runn=runn;
 	 }
 
-	@Override/*
+	@Override
 	public void run() {
 	    while (!runn.isFinSmoking()) {
 	        try {
